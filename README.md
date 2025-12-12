@@ -21,6 +21,10 @@
   <img alt="" height="60px" width="60px" src="assets/tech/Java.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/React.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/NodeJS.svg"/>
+  <img alt="" height="60px" width="60px" src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px" src="assets/tech/JavaScript.svg"/>
+  <img alt="" height="60px" width="60px" src="assets/tech/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px" src="assets/tech/Next.js.svg"/>
 </div>
 
 ---
