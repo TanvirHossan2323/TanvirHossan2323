@@ -14,8 +14,12 @@
 ---
 
 ### About  
-I am **Tanvir Hossan**, a Flutter developer and an enthusiastic learner of Artificial Intelligence.  
-I study at **United International University (UIU)** and love solving real-world problems through clean, fast, and scalable applications.
+I am **Tanvir Hossan**, a passionate `Flutter Developer` and an enthusiastic learner in `Artificial Intelligence`. I am driven by the belief that technology can solve real-world problems when combined with creativity, persistence, and clean engineering.
+
+I describe myself as someone who never gives up—I stay focused on learning, improving, and executing ideas with precision. Whether building mobile apps, optimizing user experiences, or experimenting with AI-powered solutions, I always aim for clean architecture, high performance, and scalable results.
+
+With a strong curiosity and a mindset for continuous growth, I enjoy turning complex challenges into simple, elegant digital products that make an impact.
+
 
 ---
 
@@ -26,7 +30,6 @@ I study at **United International University (UIU)** and love solving real-world
   <img alt="" height="60px" width="60px" src="assets/tech/CPP.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/Flutter.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/Dart.svg"/>
-  <img alt="" height="60px" width="60px" src="assets/tech/Java.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/React.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/NodeJS.svg"/>
   <img alt="" height="60px" width="60px" src="assets/tech/MySQL.svg"/>
@@ -54,8 +57,8 @@ I study at **United International University (UIU)** and love solving real-world
 2. Basic AI and Machine Learning Projects  
 3. API Integration & Backend Communication  
 4. UI/UX Focused App Development  
-5. Problem Solving and Competitive Programming  
-
+5. Problem Solving and Competitive Programming
+   
 ---
 
 ### Completed Learning & R&D  
