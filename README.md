@@ -1,23 +1,15 @@
 # Tanvir Hossan
-### Flutter Developer | AI Enthusiast | Student of UIU
+### Flutter Developer | AI Enthusiast 
 
 <br>
 
 <div style="display:flex">
-  <a href="https://yourwebsite.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.linkedin.com/in/tanvir-hossan-344887268/"> 
       <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto">
-  </a>
-  <a href="https://www.facebook.com/yourprofile">
-      <img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto">
   </a>
 </div>
 
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
-
----
 
 ### Love to Code
 
@@ -70,24 +62,3 @@ I study at **United International University (UIU)** and love solving real-world
 6. Git & GitHub for project management  
 
 ---
-
-<table>
-<tbody>
-
-<tr>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=dark)
-
-</td>
-
-<td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-
-</td>
-</tr>
-
-</tbody>
-</table>
-
