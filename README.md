@@ -11,6 +11,14 @@
 
 <br>
 
+---
+
+### About  
+I am **Tanvir Hossan**, a Flutter developer and an enthusiastic learner of Artificial Intelligence.  
+I study at **United International University (UIU)** and love solving real-world problems through clean, fast, and scalable applications.
+
+---
+
 ### Love to Code
 
 <div style="display:flex">
@@ -40,12 +48,6 @@
 
 ---
 
-### About  
-I am **Tanvir Hossan**, a Flutter developer and an enthusiastic learner of Artificial Intelligence.  
-I study at **United International University (UIU)** and love solving real-world problems through clean, fast, and scalable applications.
-
----
-
 ### Working Area  
 
 1. Flutter Mobile App Development  
@@ -65,4 +67,3 @@ I study at **United International University (UIU)** and love solving real-world
 5. Clean UI building with Flutter  
 6. Git & GitHub for project management  
 
----
